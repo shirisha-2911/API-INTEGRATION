@@ -18,3 +18,7 @@
 # WebSocket Library: Socket.IO (handles real-time communication)
 # Frontend: Vanilla HTML/CSS/JS (no frameworks)
 # VS Code: Code editor for development
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/81da0b19-86b0-4f64-a6fc-5eb99fa783d3)
